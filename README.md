@@ -4,8 +4,8 @@ Design optimized arRNAβ sequences based on the given RNA sequence and target A 
 ```shell
 Rscript arRNAβ_designer.R -s AUACGAUCGUACGUAGCUAGC....UGACGUAGCUGACU -t 100
 ```
-#### paramters
+#### parameters
 ```shell
---s, RNA sequence
---t, target A position   
+-s, RNA sequence
+-t, target A position   
 
